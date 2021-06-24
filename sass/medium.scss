@@ -1,0 +1,58 @@
+.cookie-alert {
+  max-width: 470px;
+}
+
+h2 {
+  font-size: 3.2rem;
+}
+
+.aboutme {
+  &-heading {
+    font-size: 2.6rem;
+  }
+
+  .timeline-heading {
+    top: -25%;
+    left: -42%;
+    font-size: 10rem;
+  }
+
+  // .hobby-bg {
+  //   top: 16.7%;
+  // }
+}
+
+.projects {
+  &-photo {
+    height: 217px;
+  }
+}
+
+.skills {
+  &-hover:nth-child(4) {
+    margin-bottom: 0;
+  }
+}
+
+.contact {
+  &-btn {
+    height: 36px;
+  }
+
+  .contact-item {
+    &-form {
+      margin-top: 0;
+    }
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 395px;
+
+
+    button {
+      height: 36px;
+      margin-bottom: 0;
+    }
+  }
+}
