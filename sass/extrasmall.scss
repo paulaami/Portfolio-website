@@ -1,0 +1,137 @@
+@media (min-width: 375px) {
+ h2 {
+   font-size: 2.8rem;
+ }
+
+ h3 {
+   font-size: 2.3rem;
+ }
+
+ nav {
+   .nav-link {
+     font-size: 1.5rem;
+   }
+ }
+
+ p {
+   font-size: 1.5rem;
+ }
+
+ .header {
+   .btn {
+     font-size: 1.5rem;
+   }
+ }
+
+ .aboutme {
+   .container {
+     .btn {
+       font-size: 1.5rem;
+     }
+   }
+
+   .timeline-heading {
+     top: 10%;
+   }
+
+ }
+
+ .contact {
+   &-heading {
+     font-size: 2rem;
+   }
+ }
+}
+
+@media (min-width: 414px) {
+ h2 {
+   margin: 70px 0;
+ }
+
+ nav {
+   .fa-laptop-code {
+     font-size: 2.5rem;
+   }
+
+   .logo-text {
+     font-size: 1.7rem;
+   }
+
+   .fa-bars {
+     font-size: 2.5rem;
+   }
+ }
+
+ .header {
+   &-heading {
+     font-size: 3.6rem;
+   }
+
+   &-text {
+     font-size: 1.7rem;
+   }
+
+   &-img {
+     background-image: url(/img/bgsmall.jpg);
+   }
+
+   .btn {
+     font-size: 1.7rem;
+   }
+
+   .arrow {
+     left: 58%;
+     top: 67%;
+     width: 130px;
+   }
+ }
+
+ .aboutme {
+   .timeline {
+     &-date {
+       font-size: 2.4rem;
+     }
+
+     img {
+       width: 40px;
+       height: 40px;
+     }
+   }
+ }
+
+ .slider {
+   &-wrapper {
+     max-width: 430px;
+     height: 470px;
+   }
+ }
+
+ .projects {
+   &-box {
+     margin-bottom: 70px;
+   }
+
+   &-last {
+     margin-bottom: 0;
+   }
+ }
+
+ .skills {
+   padding-bottom: 70px;
+ }
+
+ .contact {
+   padding-bottom: 70px;
+
+   &-heading {
+     font-size: 2.1rem;
+   }
+
+   .contact-item {
+     &-form {
+       margin-top: 70px;
+     }
+   }
+
+ }
+}
