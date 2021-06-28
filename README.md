@@ -9,6 +9,7 @@ Live demo: [https://paulinamilkowska.pl/](https://paulinamilkowska.pl/)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
+* [Further plans](#further-plans)
 
 
 ## Technologies Used
@@ -28,3 +29,7 @@ Live demo: [https://paulinamilkowska.pl/](https://paulinamilkowska.pl/)
 
 ## Setup
 Live demo: [https://paulinamilkowska.pl/](https://paulinamilkowska.pl/)
+
+## Further plans
+
+- improving accessibility
